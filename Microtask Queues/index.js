@@ -41,6 +41,7 @@ setTimeout(()=>{console.log("This is setTimeout 1")}, 0)
 
 for(let i = 0;i < 20000000; i++){}
 
+
 // Output : 
 // This is process.nextTick 1
 // this is promise.resolve 1
