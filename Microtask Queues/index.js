@@ -49,4 +49,3 @@ for(let i = 0;i < 20000000; i++){}
 // this is promise.resolve 1
 // This is setTimeout 1
 // this is readfile 1
-
